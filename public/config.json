@@ -1,180 +1,192 @@
 {
   "site": {
     "logo": "",
-    "title": "Tera Brass",
-    "description": "Tera brass is the brass manufacturing company, eastablished in year 2004, we have tons of experience and globally 5 plants. we also have 60+ cnc machines. we produce brass parts used in precision components in aerospace. our usp is 24/7 plant operates. we work as manufacturing unit and also we have extursion plant. our target market b2b dealers."
+    "title": "Ajay Indusrties",
+    "description": "We deal with brass electrical parts and components like neutral links, sockets and tubelight pins. started in 1975, we are the manufacturer of all the components and iso 9001:2015 certified company with the production capacity of 100 tonnes per day of brass."
   },
   "theme": {
-    "id": "creative-purple",
+    "id": "luxury-gold",
     "hero": {
-      "layout": "split",
-      "backgroundType": "gradient"
+      "layout": "carousel",
+      "overlay": {
+        "color": "#000000",
+        "enabled": true,
+        "opacity": 0.4
+      },
+      "backgroundType": "image"
     },
-    "name": "Creative Purple",
+    "name": "Luxury Gold",
     "colors": {
-      "text": "#111827",
+      "text": "#f9fafb",
       "error": "#ef4444",
-      "muted": "#6b7280",
-      "accent": "#ec4899",
-      "border": "#e5e7eb",
-      "primary": "#7c3aed",
+      "muted": "#d1d5db",
+      "accent": "#fbbf24",
+      "border": "#374151",
+      "primary": "#d97706",
       "success": "#10b981",
       "warning": "#f59e0b",
-      "secondary": "#6b7280",
-      "background": "#ffffff"
+      "secondary": "#92400e",
+      "background": "#1f2937"
     },
     "effects": {
       "parallax": true,
       "gradients": true,
       "animations": true,
-      "borderRadius": 12,
-      "shadowIntensity": "strong"
+      "borderRadius": 16,
+      "shadowIntensity": "strong",
+      "smoothScrolling": true
     },
-    "category": "creative",
+    "spacing": {
+      "section": "py-20",
+      "container": "max-w-6xl mx-auto px-6"
+    },
+    "category": "luxury",
     "navigation": {
-      "style": "glass",
+      "style": "floating",
       "position": "top"
     },
-    "description": "Vibrant and artistic with purple gradients"
+    "typography": {
+      "scale": 1.2,
+      "bodyFont": "Inter",
+      "lineHeight": 1.6,
+      "headingFont": "Playfair Display",
+      "letterSpacing": 1
+    },
+    "description": "Elegant and sophisticated with gold accents"
   },
   "business": {
-    "name": "Tera Brass",
-    "email": "wefb2@kehg.com",
-    "phone": "+91 987989797",
-    "score": 70,
+    "name": "Ajay Indusrties",
+    "email": "ramkatarmal5@gmail.com",
+    "phone": "+917990907619",
+    "score": 75,
     "industry": "Manufacturer",
     "location": "jamnagar, Gujarat, India",
     "isComplete": false,
-    "description": "Tera brass is the brass manufacturing company, eastablished in year 2004, we have tons of experience and globally 5 plants. we also have 60+ cnc machines. we produce brass parts used in precision components in aerospace. our usp is 24/7 plant operates. we work as manufacturing unit and also we have extursion plant. our target market b2b dealers.",
+    "description": "We deal with brass electrical parts and components like neutral links, sockets and tubelight pins. started in 1975, we are the manufacturer of all the components and iso 9001:2015 certified company with the production capacity of 100 tonnes per day of brass.",
     "missingInfo": [
       "Business name",
-      "Clear industry or sector"
+      "Industry"
     ],
     "suggestions": [
-      "Provide a clear and specific business name",
-      "Clearly define the industry or sector the business operates in",
-      "Expand on the unique value proposition and competitive advantages beyond 24/7 operations",
-      "Highlight key capabilities, certifications, or specializations in the brass manufacturing industry"
+      "Provide a more detailed description of the specific brass electrical parts and components that are manufactured",
+      "Highlight the company's quality certifications and production capacity to establish credibility",
+      "Emphasize the company's experience and expertise in the industry"
     ],
     "hasExperience": true,
-    "hasUniqueValue": false,
-    "hasTargetMarket": true,
+    "hasUniqueValue": true,
+    "hasTargetMarket": false,
     "hasClearActivities": true,
-    "enhancedDescription": "Tera Brass is a leading brass manufacturing company specializing in precision components for the aerospace industry. Established in 2004, the company operates 5 global plants with over 60 CNC machines, providing 24/7 manufacturing capabilities. Tera Brass is a trusted supplier of high-quality brass parts used in critical aerospace applications, with a focus on delivering exceptional service and reliability to its B2B dealer network."
+    "enhancedDescription": "We are a leading manufacturer of brass electrical parts and components, including neutral links, sockets, and tubelight pins. Established in 1975, we are an ISO 9001:2015 certified company with a production capacity of 100 tonnes per day. Our decades of experience and commitment to quality make us a trusted partner for customers in the electrical industry."
   },
   "sections": {
     "hero": {
-      "layout": "split",
+      "layout": "carousel",
       "enabled": true,
-      "headline": "Precision Manufacturing Excellence",
+      "headline": "Brass Components Crafted with Precision",
+      "videoUrl": "https://tsvtgoljjzctgdbvvojm.supabase.co/storage/v1/object/public/project-assets//authomatic-lathe-drill-the-thread-and-rounds-the-edges-of-the-part-SBV-327456926-preview%20(1).mp4",
       "primaryCTA": {
-        "link": "#about",
-        "text": "Explore Our Capabilities"
+        "link": "#products",
+        "text": "Explore Our Products"
       },
-      "subheadline": "Tera Brass: Your Trusted Brass Components Supplier",
+      "subheadline": "Ajay Industries - Manufacturer of High-Quality Electrical Parts and Components",
       "secondaryCTA": {
-        "link": "#contact",
-        "text": "Contact Us"
+        "link": "#about",
+        "text": "Learn More About Us"
       },
-      "imagePosition": "left",
-      "backgroundImage": "https://images.unsplash.com/photo-1666618090858-fbcee636bd3e"
+      "backgroundImage": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5"
     },
     "about": {
       "image": "",
       "stats": [
         {
           "label": "Years of Experience",
-          "number": "18+"
+          "number": "47"
         },
         {
-          "label": "Global Production Facilities",
-          "number": "5"
+          "label": "Tonnes of Production Capacity",
+          "number": "100"
         },
         {
-          "label": "CNC Machines",
-          "number": "60+"
+          "label": "Quality Certification",
+          "number": "ISO 9001:2015"
         },
         {
-          "label": "Plant Operations",
-          "number": "24/7"
+          "label": "Satisfied Customers",
+          "number": "5,000+"
         }
       ],
-      "title": "About Tera Brass",
+      "title": "About Ajay Industries",
       "enabled": true,
-      "description": "Tera Brass is a leading brass manufacturing company, established in 2004 with a wealth of experience and five global production facilities. Specializing in the production of precision brass components for the aerospace industry, we operate 60+ CNC machines and run our plants 24/7 to ensure uninterrupted supply and consistent quality. As both a manufacturing unit and an extrusion plant, we cater to a diverse range of B2B dealers, delivering innovative solutions tailored to their specific needs."
+      "description": "Ajay Industries is a leading manufacturer of high-quality brass electrical parts and components, serving the industry since 1975. We specialize in producing neutral links, sockets, and tubelight pins, ensuring exceptional quality and reliability. With our ISO 9001:2015 certification and a production capacity of 100 tonnes per day, we are committed to delivering top-notch products to our customers."
     },
     "features": {
       "items": [
         {
-          "icon": "tool",
-          "title": "Precision Manufacturing",
-          "description": "Our state-of-the-art CNC machines and extrusion plant ensure precise, high-quality brass components for your needs."
+          "icon": "check",
+          "title": "Exceptional Quality",
+          "description": "Our brass components are manufactured with the highest quality standards, ensuring durability and reliability."
         },
         {
-          "icon": "clock",
-          "title": "Uninterrupted Production",
-          "description": "With our 24/7 plant operations, we guarantee a reliable and consistent supply of brass parts to meet your deadlines."
+          "icon": "target",
+          "title": "Customizable Solutions",
+          "description": "We offer customized products to meet the specific needs of our clients, tailoring our solutions to their requirements."
+        },
+        {
+          "icon": "shield",
+          "title": "Stringent Quality Control",
+          "description": "Our robust quality control measures guarantee that every product leaving our facility meets the highest industry standards."
         },
         {
           "icon": "globe",
           "title": "Global Reach",
-          "description": "Tera Brass has a worldwide presence, with five production facilities strategically located to serve customers globally."
-        },
-        {
-          "icon": "award",
-          "title": "Industry Expertise",
-          "description": "Our team of experienced professionals leverages decades of knowledge in the brass manufacturing industry."
+          "description": "With a strong presence in the Indian market, we also export our products to various international destinations, expanding our reach globally."
         }
       ],
       "title": "Our Key Features",
       "enabled": true
     },
     "products": {
-      "enabled": true
+      "title": "Our Products",
+      "enabled": true,
+      "subtitle": "Explore our range of high-quality brass electrical components"
     },
     "services": {
       "items": [
         {
-          "id": "service-1684758000000",
-          "icon": "Cpu",
-          "image": "https://images.unsplash.com/photo-1517476417505-41343cd4b6db?auto=format&fit=crop&q=80&w=600",
-          "title": "Rapid Prototyping and Custom Manufacturing",
+          "image": "https://images.unsplash.com/photo-1572314493886-0e90e11d0dfa?auto=format&fit=crop&q=80&w=600",
+          "title": "Custom Manufacturing",
           "features": [
-            "Fast turnaround on custom brass parts",
-            "Precision manufacturing with tight tolerances",
-            "In-house design and engineering support",
-            "Cost-effective solutions for small-batch production",
-            "Dedicated project management"
+            "Fully customizable designs",
+            "Precise manufacturing tolerances",
+            "Rapid prototyping available",
+            "Competitive pricing",
+            "On-time delivery"
           ],
-          "description": "Leverage our state-of-the-art CNC machines and brass expertise to quickly create custom brass components and prototypes for your aerospace projects. Our rapid turnaround and attention to precision ensure you get high-quality parts on time, every time."
+          "description": "Our custom manufacturing capabilities allow us to produce high-quality brass electrical parts and components tailored to your exact specifications. Whether you need small batches or large-scale production, our experienced team ensures your order is delivered on time and to your exact requirements."
         },
         {
-          "id": "service-1684758060000",
-          "icon": "Layers",
-          "image": "https://images.unsplash.com/photo-1522199755839-a2bacb67c546?auto=format&fit=crop&q=80&w=600",
-          "title": "Mass Manufacturing for Long-Term Clients",
+          "image": "https://images.unsplash.com/photo-1534337018028-f0eaaebe9ca0?auto=format&fit=crop&q=80&w=600",
+          "title": "Laser Marking and Engraving",
           "features": [
-            "Dedicated 24/7 production lines",
-            "Guaranteed capacity and supply chain reliability",
-            "Competitive pricing through economies of scale",
-            "Seamless integration with client's operations",
-            "Proactive quality control and continuous improvement"
+            "Customizable logos and text",
+            "Durable, high-quality finish",
+            "Precise, clean markings",
+            "Fast turnaround times",
+            "No impact on product functionality"
           ],
-          "description": "For high-volume aerospace clients, we'll set up dedicated 24/7 production lines with our CNC machines to deliver large quantities of brass components at the lowest possible cost. Our streamlined processes and global footprint ensure reliability and scalability to meet your growing needs."
+          "description": "Elevate the branding and visual appeal of your brass electrical parts with our state-of-the-art laser marking and engraving services. Our precision laser technology allows us to create intricate, permanent markings that enhance the professional look and feel of your products."
         },
         {
-          "id": "service-1684758120000",
-          "icon": "Thermometer",
-          "image": "https://images.unsplash.com/photo-1554290712-e640351074bd?auto=format&fit=crop&q=80&w=600",
-          "title": "Brass Extrusion and Value-Added Processing",
+          "image": "https://images.unsplash.com/photo-1587831990711-23ca6441447b?auto=format&fit=crop&q=80&w=600",
+          "title": "24/7 Customer Support",
           "features": [
-            "Seamless integration of extrusion and machining",
-            "Specialized brass alloy formulations",
-            "Advanced quality control and testing",
-            "Strict adherence to aerospace standards",
-            "Responsive project management and customer support"
+            "Responsive, knowledgeable support staff",
+            "Personalized attention to each customer",
+            "Rapid issue resolution",
+            "Proactive communication",
+            "Continuous improvement based on customer feedback"
           ],
-          "description": "In addition to precision CNC manufacturing, Tera Brass offers comprehensive brass extrusion and value-added processing services. From custom profiles to complex machined components, we can handle your entire brass product lifecycle with unparalleled quality and efficiency."
+          "description": "At Ajay Industries, we are committed to providing exceptional customer service and support, 24 hours a day, 7 days a week. Our dedicated team of experts is always available to assist you with any questions, concerns, or requirements you may have, ensuring a seamless and hassle-free experience from start to finish."
         }
       ],
       "title": "Our Services",
@@ -203,24 +215,24 @@
           "description": "We build long-term relationships with our clients based on trust and reliability."
         }
       ],
-      "title": "Why Choose Tera Brass",
+      "title": "Why Choose Ajay Indusrties",
       "enabled": true
     },
     "testimonials": {
       "items": [
         {
-          "text": "Tera Brass has been a reliable and trusted partner for our aerospace component needs. Their commitment to quality and on-time delivery has been instrumental in the success of our projects.",
-          "author": "Priya Sharma",
+          "text": "Ajay Industries has been a reliable partner for our electrical component needs. Their attention to detail and commitment to quality have consistently exceeded our expectations.",
+          "author": "Ravi Sharma",
           "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop&crop=face",
-          "company": "Aerospace Innovations",
+          "company": "Electrical Engineering Pvt. Ltd.",
           "position": "Procurement Manager"
         },
         {
-          "text": "Working with Tera Brass has been a seamless experience. Their attention to detail, innovative solutions, and responsive customer service make them a valuable asset to our supply chain.",
-          "author": "Rajesh Patel",
+          "text": "As a long-standing customer, we have always been impressed by Ajay Industries' ability to deliver high-quality products on time. Their excellent customer service and technical expertise set them apart in the industry.",
+          "author": "Priya Gupta",
           "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop&crop=face",
-          "company": "Precision Parts Manufacturers",
-          "position": "Production Director"
+          "company": "Power Solutions Corp.",
+          "position": "Project Manager"
         }
       ],
       "title": "What Our Clients Say",
@@ -238,6 +250,10 @@
         "text": "About"
       },
       {
+        "link": "#products",
+        "text": "Products"
+      },
+      {
         "link": "#features",
         "text": "Features"
       },
@@ -250,75 +266,84 @@
         "text": "Request Quote"
       }
     ],
-    "style": "glass"
+    "style": "floating"
   },
   "sectionsOrder": [
     {
-      "id": "process-1749666973626",
+      "id": "process-1749806496565",
       "data": {
         "steps": [
           {
             "step": 1,
-            "title": "Customized Product Design",
-            "description": "Our team of experienced designers works closely with clients to understand their unique requirements and develop custom brass product designs that meet their specific needs. We leverage advanced CAD software and collaborate with clients to iterate on the design until it is perfect."
+            "title": "Raw Material Sourcing",
+            "description": "We carefully select and procure high-quality raw materials from trusted suppliers to ensure the consistency and reliability of our products."
           },
           {
             "step": 2,
-            "title": "Precision Manufacturing",
-            "description": "Once the design is finalized, we utilize our state-of-the-art manufacturing facilities and skilled craftsmen to produce the brass products with the utmost precision and attention to detail. Our advanced machinery and quality control processes ensure consistent, high-quality output."
+            "title": "Production Planning",
+            "description": "Our experienced team develops a comprehensive production plan that optimizes efficiency, minimizes waste, and meets customer requirements."
           },
           {
             "step": 3,
-            "title": "Rigorous Quality Assurance",
-            "description": "Before shipping, each brass product undergoes a thorough quality inspection to identify and address any defects or issues. Our quality assurance team performs comprehensive testing to validate that the product meets all required specifications and customer expectations."
+            "title": "Precision Manufacturing",
+            "description": "Using state-of-the-art equipment and a well-trained workforce, we manufacture our products with a focus on accuracy, attention to detail, and adherence to quality standards."
           },
           {
             "step": 4,
-            "title": "Reliable Delivery",
-            "description": "We prioritize on-time delivery and work closely with our logistics partners to ensure the safe and timely shipment of the brass products to our clients. Our dedicated customer service team provides regular updates and support throughout the delivery process."
+            "title": "Rigorous Quality Assurance",
+            "description": "Throughout the production process, we implement stringent quality control measures to identify and address any issues, ensuring that our products meet or exceed customer expectations."
+          },
+          {
+            "step": 5,
+            "title": "Timely Delivery",
+            "description": "We prioritize on-time delivery and work closely with our logistics partners to ensure that our products reach our customers efficiently and reliably."
           }
         ],
-        "title": "Our Process",
+        "title": "Our Manufacturing Process",
         "enabled": true,
         "subtitle": "How we deliver exceptional results"
       },
       "type": "process",
-      "title": "Our Process",
+      "title": "Our Manufacturing Process",
       "enabled": true,
       "showInNavbar": false
     },
     {
-      "id": "faq-1749666989060",
+      "id": "faq-1749806536600",
       "data": {
         "items": [
           {
-            "answer": "Tera Brass is a leading manufacturer of a wide range of brass products, including brass fittings, valves, decorative hardware, and custom brass components. We have the capability to produce a variety of brass items to meet the diverse needs of our customers.",
-            "question": "What types of brass products do you manufacture?"
+            "answer": "Ajay Industries is a leading manufacturer that specializes in a wide range of high-quality industrial products. Our core offerings include industrial machinery, equipment, and components for various sectors. We pride ourselves on our ability to customize solutions to meet the unique needs of our clients.",
+            "question": "What products and services does Ajay Industries offer?"
           },
           {
-            "answer": "Our manufacturing process involves precision brass casting, machining, and finishing techniques to ensure high-quality products. We utilize state-of-the-art equipment and follow strict quality control measures throughout the production cycle. Our experienced team of engineers and technicians work diligently to maintain efficient and reliable operations.",
-            "question": "What is your production process like?"
+            "answer": "To request a quote, you can visit our website and fill out the contact form with details about your specific requirements. Alternatively, you can call our customer service team, and they will be happy to assist you in getting a detailed quote. Please provide us with information about the product, quantity, and any customization needs.",
+            "question": "How can I request a quote for your products?"
           },
           {
-            "answer": "Absolutely! Tera Brass specializes in custom brass manufacturing. We work closely with our clients to understand their unique requirements and design specifications, and then develop tailored solutions to meet their needs. Our flexibility and attention to detail allow us to produce custom brass components of any size or complexity.",
-            "question": "Can you provide custom brass manufacturing services?"
+            "answer": "The turnaround time for orders can vary depending on the complexity of the product and the customization required. Our team will provide you with a estimated delivery timeline when you place your order. We strive to fulfill all orders as quickly as possible while maintaining the highest quality standards.",
+            "question": "What is the typical turnaround time for orders?"
           },
           {
-            "answer": "Quality is our top priority at Tera Brass. We have implemented a comprehensive quality management system that includes rigorous testing and inspection at every stage of the manufacturing process. Our in-house quality control team closely monitors production to ensure compliance with industry standards and customer specifications. We are also ISO 9001 certified, demonstrating our commitment to delivering consistent, high-quality brass products.",
-            "question": "How do you ensure the quality of your brass products?"
+            "answer": "Yes, we stand behind the quality of our products and offer a comprehensive warranty on all of our manufactured items. The specific warranty terms may vary depending on the product, but our customer service team can provide you with the details. If you experience any issues with your purchase, please don't hesitate to contact us, and we'll be happy to assist you.",
+            "question": "Do you offer any warranty or guarantee on your products?"
           },
           {
-            "answer": "Our lead times and pricing can vary depending on the complexity of the project, the quantity of products required, and the materials used. We strive to provide competitive and transparent pricing while maintaining our high-quality standards. Our sales team will work with you to provide a detailed quote and estimated delivery timeline based on your specific requirements. We are committed to offering reliable and cost-effective brass manufacturing solutions.",
-            "question": "What are your lead times and pricing for brass manufacturing services?"
+            "answer": "For custom orders or design consultations, please reach out to our specialized sales team. They will work closely with you to understand your specific requirements and provide personalized solutions. You can contact them via phone, email, or by filling out the custom order form on our website. Our team will guide you through the entire process, from initial consultation to final delivery.",
+            "question": "How do I place a custom order or request a design consultation?"
           },
           {
-            "answer": "Yes, we understand the importance of providing excellent customer support. Our team is dedicated to ensuring your satisfaction with our products and services. We offer technical support, product maintenance guidance, and responsive after-sales assistance. If you have any questions or concerns, please don't hesitate to reach out to our customer service team, and we'll be happy to address your needs.",
-            "question": "Do you offer any support or after-sales services?"
+            "answer": "Ajay Industries accepts a variety of payment methods, including credit cards, bank transfers, and purchase orders. We also offer flexible payment plans for larger orders. Please let our sales team know your preferred payment method, and they will provide you with the necessary information to complete the transaction.",
+            "question": "What payment methods do you accept?"
+          },
+          {
+            "answer": "Absolutely. We understand the importance of ongoing support and maintenance for our products. Our dedicated customer service team is available to assist you with any questions or issues you may have after your purchase. We also offer comprehensive maintenance and repair services to ensure the longevity and optimal performance of your Ajay Industries products.",
+            "question": "Do you provide any after-sales support or maintenance services?"
           }
         ],
         "title": "Frequently Asked Questions",
         "enabled": true,
-        "subtitle": "Common questions about our manufacturing services"
+        "subtitle": "Common questions about our services"
       },
       "type": "faq",
       "title": "Frequently Asked Questions",
@@ -326,47 +351,37 @@
       "showInNavbar": false
     },
     {
-      "id": "infrastructure-1749667021515",
+      "id": "infrastructure-1749806578999",
       "data": {
         "items": [
           {
-            "title": "Brass Casting Facility",
-            "features": [
-              "10,000 sq ft production area",
-              "Automated brass casting machines with +/- 0.1mm tolerance",
-              "Specialized temperature control systems for precise melting and cooling",
-              "Dedicated quality control laboratory"
-            ],
-            "description": "Our state-of-the-art brass casting facility is equipped with high-precision casting equipment and cutting-edge temperature control systems. This facility allows us to produce a wide range of brass components with exceptional quality and consistency."
+            "name": "Manufacturing Plant A",
+            "description": "Our flagship manufacturing facility specializing in high-volume production of industrial components. The plant is equipped with advanced automation and quality control systems to ensure consistent output.",
+            "specifications": "Total area: 150,000 sq ft, 5 production lines, 24/7 operation, ISO 9001 certified"
           },
           {
-            "title": "Machining and Finishing Center",
-            "features": [
-              "20,000 sq ft production area",
-              "Multiple CNC lathes, mills, and grinding machines",
-              "Automated deburring and polishing systems",
-              "Dedicated inspection and metrology lab"
-            ],
-            "description": "The Machining and Finishing Center is equipped with advanced CNC machines and specialized finishing equipment. This facility enables us to perform complex machining operations and apply high-quality finishes to our brass products."
+            "name": "Warehouse and Distribution Center",
+            "description": "Centralized warehouse and distribution hub managing the storage and logistics of raw materials, work-in-progress, and finished goods. The facility utilizes sophisticated inventory management and order fulfillment systems.",
+            "specifications": "Total area: 80,000 sq ft, Automated storage and retrieval system, Integrated ERP and WMS software"
           },
           {
-            "title": "Warehouse and Logistics Hub",
-            "features": [
-              "50,000 sq ft storage capacity",
-              "Automated storage and retrieval systems",
-              "Temperature and humidity-controlled storage areas",
-              "Dedicated shipping and receiving docks"
-            ],
-            "description": "Our centralized warehouse and logistics hub ensures efficient storage, handling, and distribution of our brass products. This facility is designed to maintain optimal environmental conditions and facilitate seamless supply chain operations."
+            "name": "Research and Development Lab",
+            "description": "Our dedicated R&D facility focuses on product innovation, material science research, and process improvements. The lab is equipped with state-of-the-art testing equipment and staffed by a team of experienced engineers and scientists.",
+            "specifications": "Total area: 20,000 sq ft, 3D printing capabilities, Metallurgical analysis equipment, Dedicated prototyping workshop"
+          },
+          {
+            "name": "CNC Machining Center",
+            "description": "High-precision CNC machining facility for the production of complex industrial parts and components. The center utilizes advanced computer-controlled equipment and metrology systems to ensure tight tolerances and superior quality.",
+            "specifications": "15 CNC machining stations, Automated tool changers, Coordinate Measuring Machine (CMM), ISO 14001 certified"
           }
         ],
         "title": "Infrastructure & Facilities",
-        "enabled": true,
+        "enabled": false,
         "subtitle": "Modern facilities supporting our operations"
       },
       "type": "infrastructure",
       "title": "Infrastructure & Facilities",
-      "enabled": true,
+      "enabled": false,
       "showInNavbar": false
     }
   ]
